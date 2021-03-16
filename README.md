@@ -1,3 +1,7 @@
+## About me 
+- 📚  I’m currently learning **Malware Analyse, Reverse Engineering**   
+- 👀  I’m looking to collaborate on **Any IT-Security related Projects**
+
 ## Languages and Tools
 
 <img align="left" title="Python"  width="30px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png"> 
@@ -13,6 +17,8 @@
 <img align="left" title="PowerShell"  width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 
 <img align="left" title="GitHub"  width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+
+<img align="left" title="BASH"  width="30px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
 
 <br/>
 
