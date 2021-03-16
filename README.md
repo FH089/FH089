@@ -1,4 +1,4 @@
-## Languages and Tools  
+## Languages and Tools
 
 <img align="left" title="Python"  width="30px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png"> 
 
@@ -11,6 +11,8 @@
 <img align="left" title="Linux"  width="30px" src="https://isc.tamu.edu/~lewing/linux/sit3-shine.7.gif">
 
 <img align="left" title="PowerShell"  width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
+
+<img align="left" title="GitHub"  width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 
 <br/>
 
