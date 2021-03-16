@@ -13,3 +13,12 @@
 <img align="left" title="PowerShell" alt="PowerShell" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 
 <br/>
+
+
+## GitHub Stats 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FH089&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
