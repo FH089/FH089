@@ -12,7 +12,7 @@
 
 <img align="left" title="Suricata"  width="30px" src="https://idsips.files.wordpress.com/2015/10/suri-400x400.png?w=300">
 
-<img align="left" title="Linux"  width="30px" src="https://isc.tamu.edu/~lewing/linux/sit3-shine.7.gif">
+<img align="left" title="Linux"  width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png">
 
 <img align="left" title="PowerShell"  width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 
